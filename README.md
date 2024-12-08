@@ -1,1 +1,2 @@
 # WasmMal
+The dataset of folders is divided in an 8:2 ratio. It is worth noting that the malicious samples are divided from the original 62 malicious samples into the training set and the test set by the ratio of 8:2, and then mutate at the end.
